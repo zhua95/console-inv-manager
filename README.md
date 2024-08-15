@@ -1,1 +1,1 @@
-# console-inv-manager
+# Console based inventory manager application, allows user to add items with an id number, short name, description, and unit price. User can view one item at a time after entry or all the items in a list
