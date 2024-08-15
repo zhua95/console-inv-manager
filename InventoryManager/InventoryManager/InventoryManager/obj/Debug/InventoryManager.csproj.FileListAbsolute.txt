@@ -1,0 +1,7 @@
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe.config
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\bin\Debug\InventoryManager.exe
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\bin\Debug\InventoryManager.pdb
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.AssemblyReference.cache
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\obj\Debug\InventoryManager.csproj.CoreCompileInputs.cache
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\obj\Debug\InventoryManager.exe
+C:\Users\zhuar\OneDrive\Documents\PRFND\Assignment 1\InventoryManager\InventoryManager\obj\Debug\InventoryManager.pdb
